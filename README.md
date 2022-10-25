@@ -9,7 +9,7 @@ Niloufar Zarghampour,
 	  Jiaying Tu
 
 ## Date
-January 2021
+January 2022
 
 ## How To run the code
 Download and go to our folder using Terminal and run the command :
