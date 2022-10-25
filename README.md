@@ -3,10 +3,10 @@
 
 
 ## Members
-Niloufar Zarghampour,
-	  Hanning Yang,
-	  Lynn Farhat, 
-	  Jiaying Tu
+Niloufar Zarghampour <br />
+Hanning Yang <br />
+Lynn Farhat <br />
+Jiaying Tu
 
 ## Date
 January 2022
