@@ -1,5 +1,9 @@
 
-Name: Niloufar Zarghampour,
+# Fingerprint Analysis
+
+
+## Name: 
+Niloufar Zarghampour,
 	  Hanning Yang,
 	  Lynn Farhat, 
 	  Jiaying Tu
